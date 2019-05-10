@@ -1,5 +1,5 @@
 puts "Enter your name: "
-name = gets.chomp()
+name = gets.chomp() #chomp() used for not getting new line on output
 
 
 puts "Enter your age: "

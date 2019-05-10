@@ -23,3 +23,26 @@ puts decim.round()
 puts Math.sqrt(36)
 
 puts Math.log(36)
+
+
+# adding 2 integers below
+
+puts("enter a number")
+num1 = gets.chomp()
+
+puts("enter another number")
+num2 = gets.chomp()
+
+puts("the summation is=" )
+puts(num1.to_i + num2.to_i)
+
+#adding a number and a float
+
+puts("enter an integer")
+num1 = gets.chomp()
+
+puts("enter a float")
+num2 = gets.chomp()
+
+puts("the summation is=" )
+puts(num1.to_i + num2.to_f)
