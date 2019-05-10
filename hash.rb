@@ -5,7 +5,7 @@ divisions = {
 }
 
 puts divisions
-puts divisions["Dhaka"]
+puts divisions["Dhaka"] #prints the value at index "Dhaka"
 
 dist = {
   1 => "DHK",
@@ -13,4 +13,4 @@ dist = {
   3 => "CTG"
 }
 
-puts dist[1]
+puts dist[1] #prints the value at index "1"
