@@ -14,4 +14,4 @@ puts my_name.include? "sab" #should return false
 puts my_name[0] #accesing 0'th element in string
 puts my_name[0, 4] #accesing 0-3'rd element in string
 
-puts my_name.index("s")
+puts my_name.index("s") #printing the index of the character "s"
