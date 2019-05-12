@@ -1,0 +1,6 @@
+zarin, admin
+arif, ceo
+momin, backend
+asha, hr
+shakil, graphics
+ashik, frontend
